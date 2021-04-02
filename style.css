@@ -88,8 +88,8 @@ hr {
     background-color: grey;
 }
 
-@media (max-width:450px) {
-    #myvideo{
+@media (max-width:321px) {
+    #myvideo {
         width: 100%;
     }
 
